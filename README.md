@@ -20,10 +20,6 @@ This is a responsive **Personal Portfolio Website** built using **React.js**. It
 - HTML5
 - CSS3
 
-## 📸 Screenshots
-
-> Add screenshots or a demo GIF here to showcase your portfolio design.
-
 ## 🔧 Setup Instructions
 
 1. Clone the repository  
