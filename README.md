@@ -27,8 +27,8 @@ This is a responsive **Personal Portfolio Website** built using **React.js**. It
    git clone https://github.com/DivyaVaishnaviVenkatesh/Portfolio_ReactJs.git
    ```
 2. Navigate into the project folder
-  ``` bash
-  cd Portfolio_ReactJs
+    ``` bash
+    cd Portfolio_ReactJs
  ```
 3. Install dependencies
    ```bash
